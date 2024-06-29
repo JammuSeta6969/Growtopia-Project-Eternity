@@ -1,6 +1,6 @@
 # 💥Project-Eternity-Growtopia💥
 
-Download [here](https://github.com/TrawlerGT/Growtopia-Project-Eternity/releases/download/latest/Eternity.v3.12.7.zip)
+Download https://discord.com/invite/mbSHXWXGsv
 
 ## <a id="setup"></a> 📁 〢 Setting up
 1. Disable windows defender (this directly changes Growtopia code so it gets false detected)
@@ -55,14 +55,14 @@ Account AAP bypass.
 
 30. ### Contact
 
-* Matrix Element (app.element.io): trawlergt
+* Matrix Element (app.element.io): Nuonn
 
-* Discord: trawler
+* Discord: Nuonn
 
-* Discord Community: https://discord.gg/8bs9NuwNYw
+* Discord Community: [https://discord.gg/8bs9NuwNYw](https://discord.com/invite/mbSHXWXGsv)
 
 ## License
 
-> Copyright (c) 2021 Ama
+> Copyright (c) 2021 Nuonn
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/mit-license.php) - see the [LICENSE](LICENSE) file for details.
